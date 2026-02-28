@@ -1,0 +1,200 @@
+# Page snapshot
+
+```yaml
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - navigation [ref=e6]:
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "IOC" [ref=e9] [cursor=pointer]:
+            - /url: https://olympics.com/ioc
+        - listitem [ref=e10]:
+          - link "Milano Cortina 2026" [ref=e11] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/milano-cortina-2026
+        - listitem [ref=e12]:
+          - link "LA 2028" [ref=e13] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/olympic-games/los-angeles-2028
+        - listitem [ref=e14]:
+          - link "Brisbane 2032" [ref=e15] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/olympic-games/brisbane-2032
+        - listitem [ref=e16]:
+          - link "Museum" [ref=e17] [cursor=pointer]:
+            - /url: https://olympics.com/museum
+        - listitem [ref=e18]:
+          - link "Shop" [ref=e19] [cursor=pointer]:
+            - /url: ""
+        - listitem [ref=e20]:
+          - link "Airbnb" [ref=e21] [cursor=pointer]:
+            - /url: https://www.airbnb.com/s/Italy/homes?date_picker_type=calendar&refinement_paths%5B%5D=%2Fhomes&search_type=DIRECT_REQUEST&checkin=2026-02-13&checkout=2026-02-15&event_widget_code=mico2026&flexible_date_search_filter_type=2&place_id=ChIJA9KNRIL-1BIRb15jJFz1LOI&ne_lat=47.33731380408&ne_lng=12.358927012123&sw_lat=45.145918679216&sw_lng=9.103055606724&zoom=9.10622199036&zoom_level=9.10622199036&c=.pi129.pkew_navigation_ioc
+        - listitem [ref=e22]:
+          - link "Olympic Refuge Foundation" [ref=e23] [cursor=pointer]:
+            - /url: https://olympics.com/en/olympic-refuge-foundation/
+      - button "English" [ref=e27] [cursor=pointer]:
+        - generic [ref=e28]: English
+        - img [ref=e30]
+    - navigation [ref=e34]:
+      - link "Olympic Channel" [ref=e35] [cursor=pointer]:
+        - /url: https://www.olympics.com/en/
+        - img "Olympic Channel" [ref=e36]
+      - list [ref=e37]:
+        - listitem [ref=e38]:
+          - link "Olympic Games" [ref=e39] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/olympic-games
+        - listitem [ref=e40]:
+          - link "Athletes" [ref=e41] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/athletes/
+        - listitem [ref=e42]:
+          - link "Sports" [ref=e43] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/sports/
+        - listitem [ref=e44]:
+          - link "News" [ref=e45] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/news
+        - listitem [ref=e46]:
+          - link "Olympic Channel" [ref=e47] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/olympic-channel
+        - listitem [ref=e48]:
+          - link "Let's Move" [ref=e49] [cursor=pointer]:
+            - /url: https://www.olympics.com/en/lets-move/
+      - button [ref=e51] [cursor=pointer]
+  - generic [ref=e53]:
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - link:
+          - /url: /en/olympic-games/tokyo-2020
+        - generic [ref=e56]:
+          - heading "Olympic Games Tokyo 2020" [level=2] [ref=e57]
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - link "Overview" [ref=e60] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020
+            - listitem [ref=e61]:
+              - link "Highlights & Replays" [ref=e62] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/videos
+            - listitem [ref=e63]:
+              - link "— Results" [ref=e64] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/results
+            - listitem [ref=e65]:
+              - link "Athletes" [ref=e66] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/athletes
+            - listitem [ref=e67]:
+              - link "Stories" [ref=e68] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/stories
+            - listitem [ref=e69]:
+              - link "Brand" [ref=e70] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/logo-design
+            - listitem [ref=e71]:
+              - link "Medal Design" [ref=e72] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/medal-design
+            - listitem [ref=e73]:
+              - link "Mascot" [ref=e74] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/mascot
+            - listitem [ref=e75]:
+              - link "Torch" [ref=e76] [cursor=pointer]:
+                - /url: /en/olympic-games/tokyo-2020/torch-relay
+      - heading "Tokyo 2020 Medal Table" [level=1] [ref=e77]:
+        - generic [ref=e78]: Tokyo 2020
+        - text: Medal Table
+    - button "Tokyo 2020" [ref=e81] [cursor=pointer]:
+      - generic [ref=e82]:
+        - generic [ref=e83]: Tokyo 2020
+        - img [ref=e85]
+    - generic [ref=e89]:
+      - generic [ref=e90]:
+        - generic [ref=e92] [cursor=pointer]:
+          - text: Team
+          - generic [ref=e93]:
+            - img [ref=e94]
+            - img [ref=e96]
+        - generic [ref=e99] [cursor=pointer]:
+          - text: Gold
+          - generic [ref=e100]:
+            - img [ref=e101]
+            - img [ref=e103]
+        - generic [ref=e106] [cursor=pointer]:
+          - text: Silver
+          - generic [ref=e107]:
+            - img [ref=e108]
+            - img [ref=e110]
+        - generic [ref=e113] [cursor=pointer]:
+          - text: Bronze
+          - generic [ref=e114]:
+            - img [ref=e115]
+            - img [ref=e117]
+        - generic [ref=e120] [cursor=pointer]:
+          - text: Total
+          - generic [ref=e121]:
+            - img [ref=e122]
+            - img [ref=e124]
+      - generic [ref=e126]:
+        - generic [ref=e131]:
+          - text: 
+          - generic [ref=e132]: United States of America
+        - generic "Gold" [ref=e133]:
+          - generic [ref=e135]: "39"
+        - generic "Silver" [ref=e136]:
+          - generic [ref=e138]: "41"
+        - generic "Bronze" [ref=e139]:
+          - generic [ref=e141]: "33"
+        - generic [ref=e144]: "113"
+        - generic [ref=e149]:
+          - text: 
+          - generic [ref=e150]: People's Republic of China
+        - generic "Gold" [ref=e151]:
+          - generic [ref=e153]: "38"
+        - generic "Silver" [ref=e154]:
+          - generic [ref=e156]: "32"
+        - generic "Bronze" [ref=e157]:
+          - generic [ref=e159]: "19"
+        - generic [ref=e162]: "89"
+        - generic [ref=e167]:
+          - text: 
+          - generic [ref=e168]: Japan
+        - generic "Gold" [ref=e169]:
+          - generic [ref=e171]: "27"
+        - generic "Silver" [ref=e172]:
+          - generic [ref=e174]: "14"
+        - generic "Bronze" [ref=e175]:
+          - generic [ref=e177]: "17"
+        - generic [ref=e180]: "58"
+        - generic [ref=e185]:
+          - text: 
+          - generic [ref=e186]: Great Britain
+        - generic "Gold" [ref=e187]:
+          - generic [ref=e189]: "22"
+        - generic "Silver" [ref=e190]:
+          - generic [ref=e192]: "20"
+        - generic "Bronze" [ref=e193]:
+          - generic [ref=e195]: "22"
+        - generic [ref=e198]: "64"
+        - generic [ref=e203]:
+          - text: 
+          - generic [ref=e204]: ROC
+        - generic "Gold" [ref=e205]:
+          - generic [ref=e207]: "20"
+        - generic "Silver" [ref=e208]:
+          - generic [ref=e210]: "28"
+        - generic "Bronze" [ref=e211]:
+          - generic [ref=e213]: "23"
+        - generic [ref=e216]: "71"
+        - generic [ref=e221]:
+          - text: 
+          - generic [ref=e222]: Australia
+        - generic "Gold" [ref=e223]:
+          - generic [ref=e225]: "17"
+        - generic "Silver" [ref=e226]:
+          - generic [ref=e228]: "7"
+        - generic "Bronze" [ref=e229]:
+          - generic [ref=e231]: "22"
+        - generic [ref=e234]: "46"
+        - generic [ref=e239]:
+          - text: 
+          - generic [ref=e240]: Netherlands
+        - generic "Gold" [ref=e241]:
+          - generic [ref=e243]: "10"
+        - generic "Silver" [ref=e244]:
+          - generic [ref=e246]: "12"
+        - generic "Bronze" [ref=e247]:
+          - generic [ref=e249]: "14"
+        - generic [ref=e252]: "36"
+        - generic: 
+```
